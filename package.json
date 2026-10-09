@@ -1,0 +1,24 @@
+{
+  "name": "psn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolinagdlt05-cmd/Mi-primera-Api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/carolinagdlt05-cmd/Mi-primera-Api/issues"
+  },
+  "homepage": "https://github.com/carolinagdlt05-cmd/Mi-primera-Api#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
